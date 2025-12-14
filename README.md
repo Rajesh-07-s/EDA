@@ -30,7 +30,7 @@ The dataset contains medical information of patients, including:
 - ST depression  
 - Target (presence or absence of heart disease)  
 
- **Dataset Source:** *((https://www.kaggle.com/datasets/sukhmandeepsinghbrar/heart-attack-dataset/data))**
+ **Dataset Source:** (https://www.kaggle.com/datasets/sukhmandeepsinghbrar/heart-attack-dataset/data)
 
 ---
 
